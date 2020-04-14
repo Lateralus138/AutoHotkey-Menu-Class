@@ -28,6 +28,8 @@ More information can be found in the example menu file &amp; the class file is f
 
 The <span style="color: red;">.aclass</span> &amp; <span style="color: red;">.ahk</span> are the same files &amp; only one is need as per your preference. I use aclass to help me differentiate my function files from my class files&#46;
 
+[Release Page](https://github.com/Lateralus138/AutoHotkey-Menu-Class/releases)
+
 [_Menu Class - ACLASS](_Menu.aclass)
 
 [_Menu Class - AHK](_Menu.ahk)

@@ -13,8 +13,6 @@ Create objects of system tray/context menus in the AutoHotkey scripting language
 This is a full-featured class that has methods to do anything the Menu commands can already do, but it creates objects of information to make working with the menus cleaner &amp; more organzied&#46;
 
 # Example Menu 
-<!-- <textarea style="width: 480px"> -->
-<textarea style="width: 480px">
 <pre style="white-space: pre-wrap;">
 <code>
 #Persistent
@@ -141,4 +139,3 @@ Power(option:=1)
 }
 </code>
 </pre>
-</textarea>

@@ -7,9 +7,9 @@
 <img src="./images/AutoHotkey-Is-The-Best.png" width="237" /><br>
 </div>
 <div style="width: 80%; height: 300px; overflow: scroll;">
-```AutoHotkey
+<pre>
 MsgBox,64,Title,Text
-```
+</pre>
 </div>
 Create objects of system tray/context menus in the AutoHotkey scripting language&#46;
 

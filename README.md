@@ -12,7 +12,7 @@ Create objects of system tray/context menus in the AutoHotkey scripting language
 
 This is a full-featured class that has methods to do anything the Menu commands can already do, but it creates objects of information to make working with the menus cleaner &amp; more organzied&#46;
 <div style="width:400px;height:150px;overflow:scroll;padding:5px;">
-<pre style="overflow: auto;">
+<pre style="width:400px;height:150px;overflow:scroll;padding:5px;">
 <code>
 Class _Menu
 {

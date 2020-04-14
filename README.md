@@ -90,7 +90,7 @@ return
     ADMIN_MENU.Show()
 return
 ; 
-#Include, C:\Users\flux\Documents\AutoHotkey\Projects\Context-Menu\_Menu.aclass
+#Include, %A_Script_Dir%\_Menu.aclass
 ; 
 ExitFunc(code:=0)
 {

@@ -1,10 +1,21 @@
 # AutoHotkey _Menu Class
 
-<img src="./images/AutoHotkey-Class.png" width="20%" /><img src="./images/AutoHotkey-Function.png" width="20%" />
+<style type="text/css">
+	.image {
+		margin: 0;
+		width: 15%;
+	}
+</style>
 
-<img src="./images/AutoHotkey-Scripting.png" width="20%" /><img src="./images/AutoHotkey-Coding.png" width="20%" />
+<img class="image" src="./images/AutoHotkey-Class.png" />
 
-<img src="./images/AutoHotkey-Programming.png" width="20%" /><img src="./images/AutoHotkey-Is-The-Best.png" width="20%" />
+<img class="image" src="./images/AutoHotkey-Scripting.png" />
+
+<img class="image" src="./images/AutoHotkey-Coding.png" />
+
+<img class="image" src="./images/AutoHotkey-Programming.png" />
+
+<img class="image" src="./images/AutoHotkey-Is-The-Best.png" />
 
 Create objects of system tray/context menus in the AutoHotkey scripting language&#46;
 

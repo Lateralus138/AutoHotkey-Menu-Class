@@ -1,8 +1,7 @@
 # AutoHotkey _Menu Class
 
-<<<<<<< HEAD
-<img src="./images/AutoHotkey-Class.png" width="100" />
-=======
+<img src="./images/AutoHotkey-Class.png" width="200" />
+
 ![alt text](./images/AutoHotkey-Class.png "AutoHotkey Class")
 >>>>>>> 54dba4fcb17b2f48b8cdbd2cc0b7e4719380cf6f
 

@@ -1,6 +1,10 @@
 # AutoHotkey _Menu Class
 
-<img src="./images/AutoHotkey-Class.png" width="25%" /><img src="./images/AutoHotkey-Function.png" width="25%" /><img src="./images/AutoHotkey-Scripting.png" width="25%" /><img src="./images/AutoHotkey-Coding.png" width="25%" /><img src="./images/AutoHotkey-Programming.png" width="25%" /><img src="./images/AutoHotkey-Is-The-Best.png" width="25%" />
+<img src="./images/AutoHotkey-Class.png" width="25%" /><img src="./images/AutoHotkey-Function.png" width="25%" />
+
+<img src="./images/AutoHotkey-Scripting.png" width="25%" /><img src="./images/AutoHotkey-Coding.png" width="25%" />
+
+<img src="./images/AutoHotkey-Programming.png" width="25%" /><img src="./images/AutoHotkey-Is-The-Best.png" width="25%" />
 
 
 

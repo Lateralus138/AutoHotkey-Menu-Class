@@ -12,15 +12,31 @@ Create objects of system tray/context menus in the AutoHotkey scripting language
 
 This is a full-featured class that has methods to do anything the Menu commands can already do, but it creates objects of information to make working with the menus cleaner &amp; more organzied&#46;
 
+## Motivation
+
+I create lots of menus in Windows based on context &amp; in my guis&#39; &amp; I wanted to make this to help organize my menus. I&#39;m a fan of OOP/objects as it helps me keep things clean; especially in this language&#46;
+
 ## Skill Level
 
 Intermediate - Advanced
 
-This is for experienced AutoHotkey programmers who already know how AHK menus work. I have provided an example menu script &amp; the class file is documented with enough information that an eperienced programmer should be able to use this well.
+This is for experienced AutoHotkey programmers who already know how AHK menus work. I have provided an example menu script &amp; the class file is documented with enough information that an eperienced programmer should be able to use this well&#46;
+
+More information can be found in the example menu file &amp; the class file is fully commented&#46;
+
+## Files
+
+The <span style="color: red;">.aclass</span> &amp; <span style="color: red;">.ahk</span> are the same files &amp; only one is need as per your preference. I use aclass to help me differentiate my function files from my class files&#46;
+
+[_Menu Class - ACLASS](_Menu.aclass)
+
+[_Menu Class - AHK](_Menu.ahk)
+
+[_Menu_Example File - AHK](_Menu_Example.ahk)
 
 ## Example Menu
 
-This [file](_Menu_Example.ahk) is found at the root of this repository.
+This [file](_Menu_Example.ahk) is found at the root of this repository&#46;
 
 <pre style="white-space: pre-wrap;">
 <code>

@@ -1,6 +1,6 @@
 # AutoHotkey _Menu Class
 
-![alt text](../images/AutoHotkey-Class.png "AutoHotkey Class")
+<img src="./images/AutoHotkey-Class.png" width="100" />
 
 Create objects of system tray/context menus in the AutoHotkey scripting language&#46;
 

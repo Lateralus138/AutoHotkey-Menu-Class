@@ -7,7 +7,12 @@
 <img src="./images/AutoHotkey-Programming.png" width="257" /><br>
 <img src="./images/AutoHotkey-Is-The-Best.png" width="237" /><br>
 </div>
-<pre style="width:80%;height:150px;overflow:scroll;padding:5px;">
+
+Create objects of system tray/context menus in the AutoHotkey scripting language&#46;
+
+This is a full-featured class that has methods to do anything the Menu commands can already do, but it creates objects of information to make working with the menus cleaner &amp; more organzied&#46;
+
+<code style="width:80%;height:150px;overflow:scroll;padding:5px;">
 Class _Menu
 {
     __New(name:="Tray",first_item:="",first_label:="",first_options:="",iconv*)
@@ -347,7 +352,3 @@ Class _Menu
     }
 }
 </pre>
-
-Create objects of system tray/context menus in the AutoHotkey scripting language&#46;
-
-This is a full-featured class that has methods to do anything the Menu commands can already do, but it creates objects of information to make working with the menus cleaner &amp; more organzied&#46;

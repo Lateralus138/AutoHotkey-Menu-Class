@@ -20,7 +20,7 @@ This is for experienced AutoHotkey programmers who already know how AHK menus wo
 
 ## Example Menu
 
-This [file](.\_Menu_Example.ahk) is found at the root of this repository.
+This [file](_Menu_Example.ahk) is found at the root of this repository.
 
 <pre style="white-space: pre-wrap;">
 <code>

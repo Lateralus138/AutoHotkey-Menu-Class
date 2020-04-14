@@ -1,30 +1,4 @@
-# AutoHotkey _Menu Class
-
-<div style="padding: 0;">
-<img src="./images/AutoHotkey-Class.png" width="186" /><br>
-<img src="./images/AutoHotkey-Scripting.png" width="218" /><br>
-<img src="./images/AutoHotkey-Coding.png" width="203" /><br>
-<img src="./images/AutoHotkey-Programming.png" width="257" /><br>
-<img src="./images/AutoHotkey-Is-The-Best.png" width="237" /><br>
-</div>
-
-Create objects of system tray/context menus in the AutoHotkey scripting language&#46;
-
-This is a full-featured class that has methods to do anything the Menu commands can already do, but it creates objects of information to make working with the menus cleaner &amp; more organzied&#46;
-
-## Skill Level
-
-Intermediate - Advanced
-
-This is for experienced AutoHotkey programmers who already know how AHK menus work. I have provided an example menu script &amp; the class file is documented with enough information that an eperienced programmer should be able to use this well.
-
-## Example Menu
-
-This [file](.\_Menu_Example.ahk) is found at the root of this repository.
-
-<pre style="white-space: pre-wrap;">
-<code>
-#Persistent
+﻿#Persistent
 #SingleInstance, Force
 #KeyHistory, 0
 SetBatchLines, -1
@@ -146,5 +120,3 @@ Power(option:=1)
         shutdown,%option%
     }
 }
-</code>
-</pre>

@@ -6,11 +6,9 @@
 <img src="./images/AutoHotkey-Programming.png" width="257" /><br>
 <img src="./images/AutoHotkey-Is-The-Best.png" width="237" /><br>
 </div>
-<div style="width: 80%; height: 300px; overflow: scroll;">
-<pre>
+<pre style="width:80%;height:150px;line-height:3em;overflow:scroll;padding:5px;">
 MsgBox,64,Title,Text
 </pre>
-</div>
 Create objects of system tray/context menus in the AutoHotkey scripting language&#46;
 
 This is a full-featured class that has methods to do anything the Menu commands can already do, but it creates objects of information to make working with the menus cleaner &amp; more organzied&#46;
